@@ -12,4 +12,8 @@ public class Main {
     static int division(int a, int b){
         return a/b;
     }
+
+    static int sum(int b, int c){
+        return  b+c;
+    }
 }
